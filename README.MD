@@ -1,5 +1,5 @@
 
-![../SCCM.PNG](../SCCM.PNG)
+![SCCM](../SCCM.PNG)
 
 ## Query And Script:
 

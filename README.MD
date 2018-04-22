@@ -1,5 +1,6 @@
 
-![SCCM](../SCCM.PNG)
+
+ ![figure 18](SCCM.PNG)
 
 ## Query And Script:
 

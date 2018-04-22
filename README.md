@@ -1,6 +1,0 @@
-# TodoNote
-
-Hi
-Testing
-
-

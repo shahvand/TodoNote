@@ -1,5 +1,7 @@
 
 
+### System Center Configuration Manager
+ 
  ![figure 18](SCCM.PNG)
 
 ## Query And Script:

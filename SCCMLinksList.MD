@@ -1,4 +1,6 @@
 
+
+
 ## Query And Script:
 
 1. [Ultimate SCCM Query Collection List](https://www.andersrodland.com/ultimate-sccm-querie-collection-list/)

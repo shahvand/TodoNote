@@ -16,4 +16,4 @@
 
 2. [HOW TO CONFIGURE SCCM SERVER GROUP](https://www.systemcenterdudes.com/sccm-server-group/)
 
-3.[CM Update Reset Tool Fixes SCCM CB Update Download Issue](https://www.anoopcnair.com/cm-update-reset-tool-fixes-sccm-cb-update-download-issue/)
+3. [CM Update Reset Tool Fixes SCCM CB Update Download Issue](https://www.anoopcnair.com/cm-update-reset-tool-fixes-sccm-cb-update-download-issue/)
